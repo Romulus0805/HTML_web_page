@@ -1,3 +1,7 @@
+body{
+	background-image: linear-gradient(to bottom right, #32a852, #35d3db);
+}
+
 h1{
 	color:green;
 	text-align: center;
@@ -12,21 +16,17 @@ p{
 }
 
 #para1{
-color:blue;
-text-color: red;
-border-style: dotted;
+	color:blue;
+	text-color: red;
+	border-style: dotted;
 }
 
 img{
-display: block;
-margin: auto
+	display: block;
+	margin: auto
 }
 
-body{
-background-color: lightblue;
-background-image: linear-gradient(to bottom right, #32a852, #35d3db);
-}
 
 li{
-font-size: 20px;
+	font-size: 20px;
 }
