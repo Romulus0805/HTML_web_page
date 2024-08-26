@@ -24,4 +24,5 @@ margin: auto
 
 body{
 background-color: lightblue;
+background-image: linear-gradient(to bottom right, #32a852, #35d3db);
 }
