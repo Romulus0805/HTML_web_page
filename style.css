@@ -14,7 +14,7 @@ p{
 #para1{
 color:blue;
 text-color: red;
-border-style: doted;
+border-style: dotted;
 }
 
 img{
@@ -23,5 +23,5 @@ margin: auto
 }
 
 body{
-backgroud-color: lightblue;
+background-color: lightblue;
 }
